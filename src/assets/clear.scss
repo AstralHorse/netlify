@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    margin: 0;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    li{
+        font-style: normal;
+        margin: 0;
+    }
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: $f_secondary;
+    font-style: normal;
+    margin: 0;
+}
